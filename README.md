@@ -1,2 +1,3 @@
 # python_assignment-3
-for loop while loop 
+in this assignment , the topics :
+     while loop, for loop, control statements ,user defined functions
